@@ -2,5 +2,5 @@ Playing around with EC2, VPCs, Subnets, Security groups, apache, and SSH from Te
 
 ## Lessons Learned:
 
-Git Large File Storage is a thing
-Learned some more Terraform commands
+- Git Large File Storage is a thing
+- Learned some more Terraform commands
